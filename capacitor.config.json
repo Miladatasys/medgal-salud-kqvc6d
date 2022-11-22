@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Medgal Salud",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
